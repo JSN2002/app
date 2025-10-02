@@ -1,5 +1,5 @@
 {
-  "noInternetError": "Quizá no tienes conexión a internet.",
+  "noInternetError": "Revisa la conexión a internet.",
   "server": "Error. Por favor, ¡inténtalo de nuevo!",
   "server0": "Introduce tu antigua contraseña",
   "server2": "¡Introduce tu nombre!",
